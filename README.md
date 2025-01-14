@@ -12,8 +12,7 @@ This project implements a basic neural network using process-based parallelism. 
 - **Output_Weights.txt**: Getting the Weights for Training.
 - **temp.txt**: Temporary data storage used during execution.
 - **Weights1.txt to Weights5.txt**: Weight files for different layers and configurations.
-- **temp.txtgithub**: Appears to be a temporary backup of data or weights, possibly for GitHub integration.
-
+- **temp.txt**: Temporary file to test random weights.
 ## Dependencies
 
 This project is developed and tested on **Ubuntu**. The following dependencies are required to build and run the project:
