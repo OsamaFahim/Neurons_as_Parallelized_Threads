@@ -9,7 +9,7 @@ This project implements a basic neural network using process-based parallelism. 
 - **input.txt**: Input data for the neural network.
 - **main.cpp**: Main entry point of the program, handling network training and execution.
 - **output.cpp**: Output processing of the neural network results.
-- **Output_Weights.txt**: File containing the output weights after training.
+- **Output_Weights.txt**: Getting the Weights for Training.
 - **temp.txt**: Temporary data storage used during execution.
 - **Weights1.txt to Weights5.txt**: Weight files for different layers and configurations.
 - **temp.txtgithub**: Appears to be a temporary backup of data or weights, possibly for GitHub integration.
